@@ -1,0 +1,21 @@
+{
+  "name": "http-lab-06",
+  "version": "1.0.0",
+  "description": "## Project Name : Demo for 401",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henok-401-javascript/HTTP-lab-06.git"
+  },
+  "author": "henok gebremedhn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henok-401-javascript/HTTP-lab-06/issues"
+  },
+  "homepage": "https://github.com/henok-401-javascript/HTTP-lab-06#readme"
+}
