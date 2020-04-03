@@ -1,5 +1,5 @@
 {
-  "categoriesSchema": [
+  "categories": [
     {
       "id": "1",
       "category": "Movie",
@@ -20,7 +20,7 @@
       "description": "All type of movies. action,advanture,dram e.t.c"
     }
   ],
-  "productsSchema": [
+  "products": [
     {
       "id": "1",
       "category": "beverage",

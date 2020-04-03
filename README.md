@@ -17,31 +17,25 @@
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
+- `PORT` - json-server --watch ./data/db.json
 
 
 #### How to initialize/run your application (where applicable)
 
- * node index.js
- * EndPoint:'/'
-      return a boolean
- * EndPoing:'/docs'
-      return jsdoc ducumentation page    
+ * json-server --watch ./data/db.json
+ * EndPoint:'/1'
+      return By Id of 1.
+ * EndPoing:'/categorySchema'
+      return by all the categoryListed from the inventory. 
+ * EndPoing:'/productsSchema'      
+      return by all the productsSchema from the inventory.
 
-#### How to use your library (where applicable)
- * 
 #### Tests
-
 
 * unit tests: 'npm test'
 * lint test: 'npm run lint'
 
-- Travis-ci 
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
 
 #### UML
-![UML Diagram](unfinishedImage)
+![UML Diagram](./assets/images/localhost.jpg)
 
