@@ -1,18 +1,16 @@
 # HTTP-lab-06
 
-## Project Name : Demo for 401
+## Project Name : Lab 06 — HTTP and REST
 
 ### Author: Henok Gebremedhn
 
 ### Links and Resources
 
 - [submission PR](https://github.com/henok-401-javascript/lab-00/pull/2)
-- [travis](https://travis-ci.com/github/henok-401-javascript/lab-00) 
-- [front-end application](https://lab-401-demo.herokuapp.com/)
 
 
 ### DOCUMENTATION 
-[jsdoc](https://lab-401-demo.herokuapp.com/docs/)
+[Swagger Hub](https://app.swaggerhub.com/apis-docs/henokLwi/default-title/0.1)
 
 
 ### Setup
