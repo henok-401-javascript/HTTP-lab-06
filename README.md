@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/henok-401-javascript/lab-00/pull/2)
+- [submission PR](https://github.com/henok-401-javascript/HTTP-lab-06/pull/1)
 
 
 ### DOCUMENTATION 
